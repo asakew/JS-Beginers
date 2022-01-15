@@ -69,7 +69,7 @@ console.log(num = 10);
 // if va else-lar
 // const time = 7;
 
-var time = new Date();
+const time = 20;
 
 if (time > 8) {
     console.log('Tur ish haqida uyla yoki Ishlamisanmi? Maymuni odam qilgan bu Mehnat buladi xD');
@@ -80,3 +80,4 @@ if (time > 8) {
 } else {
     console.log('Soat 22:00 buldi. dam ol, kamida 7,8 soat uxlawing kk');
 }
+
