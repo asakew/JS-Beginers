@@ -37,4 +37,30 @@ const lastName = 'Akmal';
 // conlosega max saqlash Number.MAX_SAFE_INTEGER);
 // va 90071992547409913637373838n - qilibham chiqorsak bularkan
 
-console.log(userName,age,year,someVariable,city, typeof lastName, Number.MAX_SAFE_INTEGER);
+// console.log(userName,age,year,someVariable,city, typeof lastName, Number.MAX_SAFE_INTEGER);
+
+
+/* operatorlar: 
+>, <, >=, <=
+==
+===
+!=
+!==
+*/
+
+// true - rost
+console.log(5 < 10);
+// fasle - yolg'on
+console.log(5 > 10);
+console.log(5 >= 10);   // fasle
+console.log(5 <= 10);   // true
+
+
+let result = 10 == 5;
+console.log(result);
+
+console.log('5' == 5);   // true
+console.log('5' === 5);  // false
+
+let num = 8;
+console.log(num = 10);
