@@ -64,3 +64,19 @@ console.log('5' === 5);  // false
 
 let num = 8;
 console.log(num = 10);
+
+
+// if va else-lar
+// const time = 7;
+
+var time = new Date();
+
+if (time > 8) {
+    console.log('Tur ish haqida uyla yoki Ishlamisanmi? Maymuni odam qilgan bu Mehnat buladi xD');
+} else if (time >= 12 && time < 12) {
+    console.log('Abed qilib ol, bul tur uzing haqingdaham uylade');
+} else if (time >= 13 && time < 18) {
+    console.log('tabiatga qara, biroz dam ol');
+} else {
+    console.log('Soat 22:00 buldi. dam ol, kamida 7,8 soat uxlawing kk');
+}
