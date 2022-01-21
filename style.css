@@ -1,4 +1,11 @@
 body {
     background-color: #000;
-    color: #fff;
+    color: #fff
+}
+
+.cyan-backgrount {
+  background-color: cyan;
+  color: #000
+} .cyan {
+  color: cyan
 }
