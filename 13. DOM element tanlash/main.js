@@ -8,4 +8,19 @@ const parag = document.querySelector('p');
 parag.classList.add('cyan');
 
 
+// Kolleksiya elementni tanlash
+document.querySelectorAll('span');
+
+// larham bor, yozayotgan paytda ., # larni yozish shart emas.
+document.getElementById();
+document.getElementsByName();
+document.getElementsByTagName();
+document.getElementsByTagNameNS();
+document.getElementsByClassName();
+
+
+
+
+
+
 
